@@ -1,0 +1,134 @@
+{
+  "tests": [
+    {
+      "name": "test141TicketPreiseLength",
+      "setup": "",
+      "run": "gradle test --tests Test141.test141TicketPreiseLength",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "test141TicketNamenLength",
+      "setup": "",
+      "run": "gradle test --tests Test141.test141TicketNamenLength",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "test142TicketPreiseBeispiel",
+      "setup": "",
+      "run": "gradle test --tests Test142.test142TicketPreiseBeispiel",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "test142TicketNamenBeispiel",
+      "setup": "",
+      "run": "gradle test --tests Test142.test142TicketNamenBeispiel",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "test143BerechnungErfassen",
+      "setup": "",
+      "run": "gradle test --tests Test143.test143BerechnungErfassen",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "test143FehlerhafteEingabe",
+      "setup": "",
+      "run": "gradle test --tests Test143.test143FehlerhafteEingabe",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "test143AusgabeErfassen",
+      "setup": "",
+      "run": "gradle test --tests Test143.test143AusgabeErfassen",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "test143BerechnungNeu",
+      "setup": "",
+      "run": "gradle test --tests Test143Neu.test143BerechnungNeu",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "test143AusgabeErfassenNeu",
+      "setup": "",
+      "run": "gradle test --tests Test143Neu.test143AusgabeErfassenNeu",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "test142TicketPreiseBeispiel2",
+      "setup": "",
+      "run": "gradle test --tests Test142.test142TicketPreiseBeispiel",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "test142TicketNamenBeispiel2",
+      "setup": "",
+      "run": "gradle test --tests Test142.test142TicketNamenBeispiel",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "test141TicketPreiseInhalt",
+      "setup": "",
+      "run": "gradle test --tests Test141.test141TicketPreiseInhalt",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "test141TicketNamenInhalt",
+      "setup": "",
+      "run": "gradle test --tests Test141.test141TicketNamenInhalt",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    }
+  ]
+}
